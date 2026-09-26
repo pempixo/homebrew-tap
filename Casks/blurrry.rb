@@ -2,7 +2,7 @@ cask "blurrry" do
   version "1.0"
   sha256 "3e20cb6136728e722668e63bb8330dbebc5ebcdc8e051fc644b25998eca56100"
 
-  url "https://github.com/pempixo/blurrry/releases/download/v#{version}/blurrry-#{version}.dmg"
+  url "https://github.com/pempixo/blurrry/releases/download/v#{version}/blurrry.dmg"
   name "blurrry"
   desc "Blur everything but the app you're using"
   homepage "https://github.com/pempixo/blurrry"
